@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Tien 
-- 👀 I’m interested in all things regarding web development and product management
-
 Hi 👋 My name is Tien Pham
 ==========================
 
