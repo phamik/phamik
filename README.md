@@ -1,4 +1,4 @@
-Hi 👋 My name is Tien Pham
+Hi 👋 My name is Tien
 ==========================
 
 Web developer
