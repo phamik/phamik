@@ -7,7 +7,7 @@ Web developer
 I am a web developer who is passionate about web design and writing code that translates into robust and user-friendly experiences. It is the application of technology in businesses that particularly interests me. This is also why the majority of my time as a developer has been around the e-commerce space. Helping clients build software that will further allow them to reach their business goals.
 
 * 🌍  I'm based in London
-* 💼  Currently work as a frontend engineer in a fintech company 
+* 💼  Currently work as a frontend engineer [Laced](https://www.laced.com/)
 * 🔗  [tmpham.com](http://tmpham.com)
 * ⚡   Interested in all things regarding web development
 
