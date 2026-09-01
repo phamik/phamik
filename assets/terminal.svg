@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="466" viewBox="0 0 880 466" role="img" aria-label="Terminal — whoami: Tien Pham, senior software engineer. From user journey to deploy pipeline. Eight years turning business problems into shipped product — marketplaces, retail, regulated finance. Frontend depth, full-stack range, zero fear of the API boundary. Stack: react, typescript, next.js, graphql, node. Cares about: design systems, performance, accessibility. AI tooling: claude-code, codex, mcp-servers, skills-library.">
+  <defs>
+    <clipPath id="win">
+      <rect width="880" height="466" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <rect width="880" height="466" fill="#2f3338"/>
+    <rect width="880" height="40" fill="#282b2f"/>
+    <line x1="0" y1="40" x2="880" y2="40" stroke="rgba(255,255,255,0.1)"/>
+    <circle cx="24" cy="20" r="5.5" fill="#ff5f57"/>
+    <circle cx="44" cy="20" r="5.5" fill="#febc2e"/>
+    <circle cx="64" cy="20" r="5.5" fill="#28c840"/>
+  </g>
+  <rect x="0.5" y="0.5" width="879" height="465" rx="12" fill="none" stroke="rgba(255,255,255,0.1)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve">
+    <text x="440" y="25" fill="rgba(255,255,255,0.52)" text-anchor="middle">tien@tmpham — zsh</text>
+
+    <text x="28" y="78"><tspan fill="#daa520">$ </tspan><tspan fill="#ffffff">whoami</tspan></text>
+    <text x="28" y="102" fill="#ffffff" font-size="17" font-weight="700" letter-spacing="0.5">Tien Pham</text>
+    <text x="28" y="126" fill="rgba(255,255,255,0.52)">senior software engineer</text>
+    <text x="28" y="148" fill="#daa520">from user journey to deploy pipeline</text>
+    <line x1="28" y1="168" x2="124" y2="168" stroke="rgba(255,255,255,0.2)"/>
+    <text x="28" y="196" fill="rgba(255,255,255,0.7)">Eight years turning business problems into shipped product — marketplaces, retail,</text>
+    <text x="28" y="218" fill="rgba(255,255,255,0.7)">regulated finance. Frontend depth, full-stack range, zero fear of the API boundary.</text>
+
+    <text x="28" y="258"><tspan fill="#daa520">$ </tspan><tspan fill="#ffffff">cat stack.txt</tspan></text>
+    <text x="28" y="280" fill="rgba(255,255,255,0.7)">react · typescript · next.js · graphql · node</text>
+
+    <text x="28" y="320"><tspan fill="#daa520">$ </tspan><tspan fill="#ffffff">grep -r "cares_about" .</tspan></text>
+    <text x="28" y="342" fill="rgba(255,255,255,0.7)">./design-systems  ./performance  ./accessibility</text>
+
+    <text x="28" y="382"><tspan fill="#daa520">$ </tspan><tspan fill="#ffffff">ls ~/ai</tspan></text>
+    <text x="28" y="404" fill="rgba(255,255,255,0.7)">claude-code/  codex/  mcp-servers/  skills-library/</text>
+
+    <text x="28" y="444"><tspan fill="#daa520">$ </tspan></text>
+  </g>
+
+  <rect x="44" y="433" width="8" height="15" fill="#daa520">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

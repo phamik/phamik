@@ -1,37 +1,23 @@
-Hi 👋 My name is Tien
-==========================
+<img src="assets/terminal.svg" alt="Terminal — whoami: Tien Pham, senior software engineer. From user journey to deploy pipeline. Eight years turning business problems into shipped product across marketplaces, retail and regulated finance; frontend depth, full-stack range, zero fear of the API boundary. Stack: react, typescript, next.js, graphql, node. Cares about: design systems, performance, accessibility. AI tooling: claude-code, codex, mcp-servers, skills-library." width="100%" />
 
-Web developer
--------------
+### What I do
 
-I am a web developer who is passionate about web design and writing code that translates into robust and user-friendly experiences. It is the application of technology in businesses that particularly interests me. This is also why the majority of my time as a developer has been around the e-commerce space. Helping clients build software that will further allow them to reach their business goals.
+- 🚀 &nbsp;**Zero to one.** Idea to shipped product — scoping it, choosing the stack, getting it in front of users.
+- 🎯 &nbsp;**Products, not tickets.** I want to know what the thing is for and who it's failing. I own outcomes, not just interfaces.
+- 🧱 &nbsp;**Then making it last.** Design systems, performance and accessibility are what keep a v1 from turning into a rewrite.
+- 🤖 &nbsp;**AI in the daily loop.** Claude Code and Codex, plus the custom MCP servers and agent tooling I build when off-the-shelf falls short.
 
-* 🌍  I'm based in London
-* ⚡   Interested in all things regarding web development
+### The toolbox
 
-### Skills
-
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-</p>
-
-
-### Socials
-
-<p align="left">  <a href="https://www.linkedin.com/in/tien-pham-minh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/phamik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamik&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+| | |
+| --- | --- |
+| ⚛️ &nbsp;**core** | React · TypeScript · JavaScript · Next.js |
+| 🔌 &nbsp;**state & data** | GraphQL · Apollo · Redux · REST · SQL |
+| 🧩 &nbsp;**beyond the frontend** | Node.js · Ruby on Rails |
+| 🎨 &nbsp;**styling & design systems** | Tailwind · CSS/SCSS · Emotion · Storybook · design tokens · WCAG |
+| 🧪 &nbsp;**testing** | Vitest · Jest · Playwright · Cypress · React Testing Library |
+| ☁️ &nbsp;**ci/cd & cloud** | GitHub Actions · Docker · Terraform · AWS · Google Cloud · Vercel |
+| 🧠 &nbsp;**ai-assisted dev** | Claude Code · Codex · custom MCP servers · agent tooling |
 
 <!---
 phamik/phamik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
