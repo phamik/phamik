@@ -17,7 +17,7 @@
 | 🎨 &nbsp;**styling & design systems** | Tailwind · CSS/SCSS · Emotion · Storybook · design tokens · WCAG |
 | 🧪 &nbsp;**testing** | Vitest · Jest · Playwright · Cypress · React Testing Library |
 | ☁️ &nbsp;**ci/cd & cloud** | GitHub Actions · Docker · Terraform · AWS · Google Cloud · Vercel |
-| 🧠 &nbsp;**ai-assisted dev** | Claude Code · Codex · custom MCP servers · agent tooling |
+| 🧠 &nbsp;**ai-assisted dev** | Claude Code · Codex · MCP servers · agent tooling |
 
 <!---
 phamik/phamik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
